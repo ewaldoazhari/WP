@@ -1,0 +1,83 @@
+/* Themify Customize Styling */
+body {	
+	font-family:Roboto;	font-weight:100;
+	font-size:16px;
+ 
+}
+h1 {	
+	font-family:Roboto;	font-weight:300;
+	letter-spacing:5px;
+	font-size:80px;
+ 
+}
+h2 {	
+	font-family:Roboto;	font-weight:300;
+	letter-spacing:1px;
+ 
+}
+.header-classic #headerwrap, #headerwrap {	background: none;
+	background-color: #ffffff; 
+}
+body[class*="themify"] #site-logo a {	
+	font-family:Roboto;	font-weight:bold;
+	font-size:24px;
+
+	color: #906904; 
+}
+#main-nav {		position:relative;
+
+	top: 3px; 
+}
+#main-nav a {	
+	font-family:Roboto;	font-weight:300;
+	font-size:16px;
+ 
+}
+#main-nav-wrap #main-nav a:hover, #main-nav-wrap #main-nav > li > a:hover {	
+	color: #906904; 
+}
+#footer a {	
+	color: #906904; 
+}
+@media screen and (max-width: 768px) { /* Themify Customize Styling */
+body {		font-weight:100;
+ 
+}
+h1 {	
+	font-family:Roboto;	font-weight:300;
+ 
+}
+h2 {		font-weight:300;
+ 
+}
+#main-nav a {		font-weight:300;
+ 
+}
+ }@media screen and (max-width: 680px) { /* Themify Customize Styling */
+body {		font-weight:100;
+ 
+}
+h1 {	
+	font-family:Roboto;	font-weight:300;
+	font-size:50px;
+ 
+}
+h2 {		font-weight:300;
+ 
+}
+.header-classic #headerwrap, #headerwrap {	background: none;
+	background-color: #ffffff; 
+}
+body[class*="themify"] #site-logo a {	
+	color: #906904; 
+}
+#main-nav a {		font-weight:300;
+ 
+}
+#main-nav-wrap #main-nav a:hover, #main-nav-wrap #main-nav > li > a:hover {	
+	color: #906904; 
+}
+#footer a {	
+	color: #906904; 
+}
+ }
